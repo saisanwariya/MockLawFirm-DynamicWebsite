@@ -10,7 +10,6 @@ A dynamic website for a mock law firm, showcasing its services, attorneys, and o
 - **Contact Us:** A form for visitors to get in touch.
 - **Gallery:** Showcasing events, attorneys, and other media.
 - **Testimonials:** Feedback and reviews from clients.
-- ... [Add other features as needed]
 
 ## Setup and Installation
 1. Clone the repository.
