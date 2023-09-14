@@ -1,27 +1,37 @@
-# Mock Law Firm - Dynamic Website
+# Mock Law Firm Dynamic Website
 
-## Description
-A dynamic website for a mock law firm, showcasing its services, attorneys, and other relevant information.
+## Overview
+MockLawFirm-DynamicWebsite is a comprehensive web application designed to simulate the functionalities of a dynamic law firm website. It provides interfaces for both clients and administrators, offering a range of features from appointment bookings to attorney listings.
 
-## Features
-- **About Page:** Brief about the law firm and its history.
-- **Admin Dashboard:** For managing appointments, feedback, and other administrative tasks.
-- **Attorneys:** List of attorneys with their profiles.
-- **Contact Us:** A form for visitors to get in touch.
-- **Gallery:** Showcasing events, attorneys, and other media.
-- **Testimonials:** Feedback and reviews from clients.
-- ... [Add other features as needed]
+## Program Functionality
+- **Client Interface**: Allows clients to view attorney profiles, book appointments, and send feedback.
+- **Admin Interface**: Enables administrators to manage attorney profiles, view appointments, and handle feedback.
+- **Dynamic Content**: The website adjusts its content based on the database, ensuring up-to-date information is always presented.
+- **Responsive Design**: Ensures optimal viewing experience across various devices.
 
-## Setup and Installation
-1. Clone the repository.
-2. Import the `psl.sql` file to set up the database.
-3. Configure the database connection in `psl/database.php`.
-4. Run the project on a local server or deploy it to a web server.
+## Software Setup
+1. **Clone the Repository**: 
+   ```
+   git clone https://github.com/saisanwariya/MockLawFirm-DynamicWebsite.git
+   ```
+2. **Database Setup**: Import the `psl.sql` file into your MySQL database to set up the required tables and initial data.
+3. **Configuration**: Navigate to the `psl/admin/config.php` file and adjust the database connection parameters to match your setup.
+4. **Dependencies**: Ensure you have PHP and MySQL installed on your server.
 
-## Technologies Used
-- PHP
-- MySQL
-- Bootstrap
-- jQuery
+## Running the Program
+1. Start your local server (e.g., XAMPP, WAMP, or MAMP).
+2. Navigate to the root directory of the cloned repository in your browser.
+3. Explore the website! For admin functionalities, navigate to the `admin` directory.
+
+## Notes
+- Ensure your server is configured to handle PHP sessions as they are essential for the admin functionalities.
+- Regularly backup your database to prevent data loss.
+- For security reasons, it's recommended to change the default admin credentials after the initial setup.
+
+---
+
+**Copyright © 2023 Sai Sanwariya Narayan. All rights reserved.**
+
+**Warning**: Unauthorized copying, modification, distribution, or performance of this software, and the resultant output, is prohibited. Legal actions will be taken against those found in violation of this copyright.
 
 ---
