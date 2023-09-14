@@ -1,13 +1,23 @@
 # Mock Law Firm Dynamic Website
 
 ## Overview
-MockLawFirm-DynamicWebsite is a comprehensive web application designed to simulate the functionalities of a dynamic law firm website. It provides interfaces for both clients and administrators, offering a range of features from appointment bookings to attorney listings.
+MockLawFirm-DynamicWebsite is a comprehensive web application designed to simulate the functionalities of a dynamic law firm website.
+
+## Features
+- **Dynamic Attorney Profiles**: Showcase detailed profiles of attorneys, including their expertise, achievements, and contact details.
+- **Appointment Booking System**: Allows clients to book appointments with specific attorneys based on their availability.
+- **Feedback System**: Clients can provide feedback, ensuring continuous improvement in services.
+- **Admin Dashboard**: A robust admin panel to manage appointments, attorney profiles, and client feedback.
+- **Responsive Design**: The website is designed to be mobile-friendly, ensuring a seamless experience across devices.
+- **Gallery**: Display images from past events, office premises, or any other relevant content.
+- **Contact Form**: Clients can easily get in touch through a built-in contact form.
+- **Testimonials**: Showcase reviews and testimonials from satisfied clients.
+- **FAQ Section**: Address common queries and concerns of clients.
 
 ## Program Functionality
 - **Client Interface**: Allows clients to view attorney profiles, book appointments, and send feedback.
 - **Admin Interface**: Enables administrators to manage attorney profiles, view appointments, and handle feedback.
 - **Dynamic Content**: The website adjusts its content based on the database, ensuring up-to-date information is always presented.
-- **Responsive Design**: Ensures optimal viewing experience across various devices.
 
 ## Software Setup
 1. **Clone the Repository**: 
@@ -33,8 +43,3 @@ MockLawFirm-DynamicWebsite is a comprehensive web application designed to simula
 **Copyright © 2023 Sai Sanwariya Narayan. All rights reserved.**
 
 **Warning**: Unauthorized copying, modification, distribution, or performance of this software, and the resultant output, is prohibited. Legal actions will be taken against those found in violation of this copyright.
-
----
-
-
-
