@@ -1,4 +1,4 @@
-# Mock Law Firm Dynamic Website
+<h1 align="center">Mock Law Firm Dynamic Website</h1>
 
 ## Overview
 MockLawFirm-DynamicWebsite is a comprehensive web application designed to simulate the functionalities of a dynamic law firm website.
